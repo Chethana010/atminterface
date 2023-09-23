@@ -27,7 +27,7 @@ This project simulates an ATM (Automated Teller Machine) through a graphical use
     ```
 4. Run the script:
     ```
-    python main.py
+    python ATM_Interface_main.py
     ```
 
 ## Classes and Methods
