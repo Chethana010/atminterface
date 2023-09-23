@@ -12,7 +12,6 @@ This project simulates an ATM (Automated Teller Machine) through a graphical use
 - Withdraw Funds
 - Deposit Funds
 - Transfer Funds between Accounts
-- Exit Application
 
 ## How to Run
 
